@@ -11,7 +11,8 @@ I am a research scientist at the [Robotics and AI Institute (formerly known as t
 <h1>&nbsp;</h1>
 <h1>News</h1>
 <ul>
-<li>[Jun 2024] I started working at the Boston Dynamics AI Institute as a research scientist..&nbsp;</li>
+<li>[Jun 2024] I started working at the Boston Dynamics AI Institute as a research scientist.&nbsp;</li>
+<li>[Feb 2022] Our book <a href="https://mitpress.mit.edu/9780262046169/learning-for-adaptive-and-reactive-robot-control/">Learning for Adaptive and Reactive Robot Control</a> is available in both English and Chinese.</li>
 <li>[July 2020] I started working at Sony as a senior robotics engineer.&nbsp;</li>
 <li>[May 2019] At ICRA 2019, We, <a href="http://lasa.epfl.ch/people/member.php?SCIPER=115671">Aude Billard</a>, <a href="https://nbfigueroa.github.io/">Nadia Figueroa</a>, <a href="http://lasa.epfl.ch/people/member.php?SCIPER=274454">Lukas Huber</a> and I, gave a tutorial on "<a href="https://epfl-lasa.github.io/TutorialICRA2019.io/">Dynamical System-based Learning from Demonstration</a>".&nbsp;</li>
 <li>[April 2019]&nbsp;I started working at <a href="Nnaisense.com/">Nnaisense</a> as a research scienticst.</li>
